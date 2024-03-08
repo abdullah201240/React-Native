@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "FrontEnd",
-    "slug": "FrontEnd",
+    "slug": "sakib",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "14920d37-6ade-4c54-96af-ea86e42f296e"
+      }
+    },
+    "owner": "abdullahalsakib",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/14920d37-6ade-4c54-96af-ea86e42f296e"
     }
   }
 }

@@ -20,7 +20,7 @@ const Signup = ({navigation}) => {
                     return;
                 }
 
-                const apiEndpoint = "http://192.168.0.115:3000/users";
+                const apiEndpoint = "http://192.168.0.110:3000/users";
 
                 const response = await axios.post(apiEndpoint, {
                     name: name,
