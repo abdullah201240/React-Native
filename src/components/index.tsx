@@ -20,6 +20,8 @@ const Index = ({navigation}) => {
       </TouchableOpacity>
         </ScrollView>
     );
+
+    
 }
 
 export default Index;
